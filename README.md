@@ -1,6 +1,6 @@
 # gbi6_exam3
 Examen final del semestre OCT2022-MAR2023 de Bioinformática.
-[20:09, 1/3/2023] +593 98 697 1495: <p align="center">
+ <p align="center">
   <img src="https://univercimas.com/wp-content/uploads/2021/12/Logo-de-la-Universidad-Regional-Amazonica-ikiam.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
