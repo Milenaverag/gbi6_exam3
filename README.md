@@ -9,7 +9,8 @@ Examen final del semestre OCT2022-MAR2023 de Bioinformática.
 ### BIOINFORMÁTICA-GBI6
 En este curso se revisará el análisis de datos biológicos usando R.
 #### CARACTERÍSTICAS DEL EQUIPO
-[20:09, 1/3/2023] +593 91171783: | CARACTERÍSTICA | DESCRIPCIÓN |
+
+| CARACTERÍSTICA | DESCRIPCIÓN |
 | ------------- | ------------- |
 | *NOMBRE DEL EQUIPO* | Milenavera |
 | *PROCESADOR*  | AMD E2-7110 APU with AMD Radeon R2 Graphics 1.80 GHz  |
